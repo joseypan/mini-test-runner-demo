@@ -1,0 +1,17 @@
+{
+  "name": "mini-test-runner-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.17.14",
+    "glob": "^9.3.2"
+  }
+}
